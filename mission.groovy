@@ -1,4 +1,4 @@
-//VERSION 5
+//VERSION 6
 
 artifactory('art1'){
    localRepository("docker-local") {
